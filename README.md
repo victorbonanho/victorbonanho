@@ -1,6 +1,6 @@
 ### Hi there, I'm Victor Bonanho 👋
 
-- 🔭 I’m currently working on mobile apps
+- 🔭 I’m currently working on mobile apps and websites
 - 🌱 I’m currently learning front-end featurues
 - 👯 I’m looking to collaborate on mobile and web projects
 - 🤔 I’m looking for help with backend and data bases
