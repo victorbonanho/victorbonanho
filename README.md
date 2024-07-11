@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on mobile and web projects
 - 🤔 I’m looking for help with backend and data bases
 - 💬 Ask me about layout patterns and front-end features
-- 📫 How to reach me: victorbonanho.com
+- 📫 How to reach me: victbonanho@gmail.com
